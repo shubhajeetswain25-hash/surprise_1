@@ -58,7 +58,7 @@ enter.addEventListener("click", function() {
 
 
 
-    if (password === "180522") {
+    if (password === "180626") {
   
         statusMessage.textContent = "🔓 Access Granted";
 
